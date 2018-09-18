@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: gano
+  description: install git flow
+  license: MIT
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+        - 6
+  galaxy_tags:
+    - centos
+    - git
+
+  dependencies: [ gano2018.os_init, gano2018.git ]

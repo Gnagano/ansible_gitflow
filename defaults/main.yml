@@ -1,0 +1,6 @@
+---
+gitflow:
+  repository_url: https://raw.githubusercontent.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
+  installers:
+  - "/tmp/gitflow-installer.sh"
+  - "/tmp/gitflow"
