@@ -12,4 +12,4 @@ galaxy_info:
     - centos
     - git
 
-dependencies: [ gano2018.os_init, gano2018.git ]
+dependencies: [ gano2018.ansible_os_init, gano2018.ansible_git ]
